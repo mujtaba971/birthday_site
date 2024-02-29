@@ -16,7 +16,7 @@ This project aims to create a personalized website for celebrating birthdays. It
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
+  
 
 ## Getting Started
 
